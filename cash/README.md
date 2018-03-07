@@ -11,8 +11,8 @@
 
 ## Introduction
 
-The library Cash is a simple Javascript library that converts values from one currency to another. The library use the following API `https://api.fixer.io/latest` to get all currencies exchange values compared to euro currency in real-time.
-There si 32 currencies that you can use, go to the API link to see them.
+The library Cash is a simple Javascript library that converts values from one currency to anothers. The library use the following API `https://api.fixer.io/latest` to get all currencies exchange values compared to euro (EUR) currency in real-time.
+There is 32 currencies that you can use, go to the API link to see them.
 
 ## Fonctioning of the library
 
