@@ -7,6 +7,9 @@ const currencies = require('../lib/currencies.json');
 
 const API = 'https://api.fixer.io/latest';
 
+/** This is a description of the foo function.
+ * @param {string} title - The title of the book.
+ */
 const convert = configuration => {
   const {amount, to, from, response, loading} = configuration;
 
